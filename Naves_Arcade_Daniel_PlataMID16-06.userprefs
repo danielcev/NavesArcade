@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\TeletransporteBoss.cs">
+    <Files>
+      <File FileName="Assets\Scripts\IABase3.cs" Line="49" Column="3" />
+      <File FileName="Assets\Scripts\Teletransporte.cs" Line="64" Column="24" />
+      <File FileName="Assets\Scripts\EnemyDisparciador.cs" Line="151" Column="64" />
+      <File FileName="Assets\Scripts\BossTransformable.cs" Line="170" Column="53" />
+      <File FileName="Assets\Scripts\BalaEnemiga.cs" Line="35" Column="27" />
+      <File FileName="Assets\Scripts\BalaPesada.cs" Line="61" Column="20" />
+      <File FileName="Assets\Scripts\TeletransporteBoss.cs" Line="84" Column="60" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

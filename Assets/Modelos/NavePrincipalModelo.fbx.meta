@@ -1,0 +1,143 @@
+fileFormatVersion: 2
+guid: ed786158bfbc0ba42886a9fc38c920d1
+timeCreated: 1497034380
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: nave2:AlaAbajoDer
+    100002: nave2:AlaAbajoIzq
+    100004: nave2:AlaArribaDer
+    100006: nave2:AlaArribaIzq
+    100008: nave2:front1
+    100010: nave2:pCube1
+    100012: nave2:pCube2
+    100014: nave2:pCube2 1
+    100016: nave2:pCube2 2
+    100018: nave2:pCube2 3
+    100020: nave2:pCylinder1
+    100022: nave2:pCylinder1 1
+    100024: nave2:pCylinder1 2
+    100026: nave2:pCylinder1 3
+    100028: nave2:pCylinder2
+    100030: nave2:pCylinder2 1
+    100032: nave2:pCylinder2 2
+    100034: nave2:pCylinder2 3
+    100036: nave2:pCylinder3
+    100038: nave2:transform1
+    100040: nave2:transform10
+    100042: nave2:transform11
+    100044: nave2:transform12
+    100046: nave2:transform13
+    100048: nave2:transform14
+    100050: nave2:transform2
+    100052: nave2:transform3
+    100054: nave2:transform4
+    100056: nave2:transform5
+    100058: nave2:transform6
+    100060: nave2:transform7
+    100062: nave2:transform8
+    100064: nave2:transform9
+    100066: //RootNode
+    400000: nave2:AlaAbajoDer
+    400002: nave2:AlaAbajoIzq
+    400004: nave2:AlaArribaDer
+    400006: nave2:AlaArribaIzq
+    400008: nave2:front1
+    400010: nave2:pCube1
+    400012: nave2:pCube2
+    400014: nave2:pCube2 1
+    400016: nave2:pCube2 2
+    400018: nave2:pCube2 3
+    400020: nave2:pCylinder1
+    400022: nave2:pCylinder1 1
+    400024: nave2:pCylinder1 2
+    400026: nave2:pCylinder1 3
+    400028: nave2:pCylinder2
+    400030: nave2:pCylinder2 1
+    400032: nave2:pCylinder2 2
+    400034: nave2:pCylinder2 3
+    400036: nave2:pCylinder3
+    400038: nave2:transform1
+    400040: nave2:transform10
+    400042: nave2:transform11
+    400044: nave2:transform12
+    400046: nave2:transform13
+    400048: nave2:transform14
+    400050: nave2:transform2
+    400052: nave2:transform3
+    400054: nave2:transform4
+    400056: nave2:transform5
+    400058: nave2:transform6
+    400060: nave2:transform7
+    400062: nave2:transform8
+    400064: nave2:transform9
+    400066: //RootNode
+    2300000: nave2:front1
+    3300000: nave2:front1
+    4300000: nave2:front1
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
